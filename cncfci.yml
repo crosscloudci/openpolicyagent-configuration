@@ -1,14 +1,14 @@
  project:
-  logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/color/cncf-color.svg?sanitize=true"
-  display_name: Test Project
-  sub_title: Testing
-  project_url: "https://github.com/crosscloudci/testproj"
-  stable_ref: "v0.0.4"
+  logo_url: "https://landscape.cncf.io/logos/open-policy-agent-opa.svg"
+  display_name: Open Policy Agent (OPA)
+  sub_title: An open source, general-purpose policy engine.
+  project_url: "https://github.com/open-policy-agent/opa"
+  stable_ref: "v0.15.0"
   head_ref: "master"
   ci_system:
     -
       ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/cncfci/testproj"  # can be anything for citest
-      ci_project_name: "crosscloudci/testproj"
+      ci_project_url: "https://example.com/open-policy-agent/opa"  # can be anything for citest
+      ci_project_name: "open-policy-agent/opa/"
       arch:
         - amd64

@@ -1,1 +1,1 @@
-# testproj-configuration
+# openpolicyagent-configuration
