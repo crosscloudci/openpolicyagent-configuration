@@ -1,7 +1,7 @@
  project:
   logo_url: "https://landscape.cncf.io/logos/open-policy-agent-opa.svg"
   display_name: Open Policy Agent (OPA)
-  sub_title: An open source, general-purpose policy engine.
+  sub_title: Policy
   project_url: "https://github.com/open-policy-agent/opa"
   stable_ref: "v0.15.0"
   head_ref: "master"
