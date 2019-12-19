@@ -1,6 +1,6 @@
  project:
   logo_url: "https://landscape.cncf.io/logos/open-policy-agent-opa.svg"
-  display_name: Open Policy Agent (OPA)
+  display_name: Open Policy Agent
   sub_title: Policy
   project_url: "https://github.com/open-policy-agent/opa"
   stable_ref: "v0.15.0"
