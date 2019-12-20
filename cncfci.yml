@@ -8,7 +8,7 @@
   ci_system:
     -
       ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/open-policy-agent/opa"  # can be anything for citest
+      ci_project_url: "https://travis-ci.org/open-policy-agent/opa" 
       ci_project_name: "open-policy-agent/opa/"
       arch:
         - amd64
